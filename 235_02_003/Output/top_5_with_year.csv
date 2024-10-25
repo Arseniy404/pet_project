@@ -1,0 +1,6 @@
+world_rank,institution,country,national_rank,quality_of_education,alumni_employment,quality_of_faculty,publications,influence,citations,broad_impact,patents,score,year
+1000,China Pharmaceutical University,China,83,367,567,218,861,991,812,981.0,547,44.02,2015
+328,University of Jena,Germany,29,367,567,218,260,263,321,289.0,457,45.64,2015
+341,Indian Institute of Technology Delhi,India,1,367,59,218,635,943,812,781.0,625,45.54,2015
+340,"St George's, University of London",United Kingdom,32,367,567,218,554,476,368,262.0,648,45.55,2015
+339,University of Oregon,USA,122,346,567,218,378,217,161,295.0,729,45.55,2015
